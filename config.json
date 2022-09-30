@@ -1,0 +1,14 @@
+{
+	"windowPosition": [
+		993,
+		0
+	],
+	"windowSize": [
+		543,
+		864
+	],
+	"hyper": {
+		"plugins": "{\"plugins\":[\"hypurr#latest\"],\"localPlugins\":[]}",
+		"plugin-versions": "[[\"hypurr\",\"2.0.6\"]]"
+	}
+}
